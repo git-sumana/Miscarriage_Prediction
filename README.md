@@ -13,4 +13,4 @@ Miscarriage Prediction Model is a Python-based application designed to provide e
 
  Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/miscarriage-prediction.git
+   git clone https://github.com/git-sumana/miscarriage-prediction.git
