@@ -18,7 +18,6 @@ Miscarriage Prediction Model is a Python-based application designed to provide e
 In the provided code, the XGBClassifier class from the XGBoost library is used to train a classification model to predict whether a miscarriage occurred or not based on the input features such as age, BMI, number of previous miscarriages, activity level, location, body temperature, heart rate, stress level, and blood pressure level.
 
 <i>Here's a brief overview of the key steps involved in the code: </i>
-
 <b>Loading the Data: </b> The data is loaded from a CSV file using Pandas. <br>
 <b>Data Preprocessing: </b> The data is split into features (X) and the target variable (y). Categorical variables are encoded using label encoding.<br>
 <b>Model Training: </b> The XGBoost classifier is trained on the training data.<br>
