@@ -11,6 +11,8 @@ Miscarriage Prediction Model is a Python-based application designed to provide e
 - pandas
 - numpy
 
+## About Project
+
 <p> The machine learning algorithm used in the provided code is XGBoost (Extreme Gradient Boosting). XGBoost is a popular and powerful gradient boosting algorithm that is commonly used for classification and regression tasks. It works by building a series of decision trees sequentially, where each subsequent tree corrects the errors made by the previous ones.
 
 In the provided code, the XGBClassifier class from the XGBoost library is used to train a classification model to predict whether a miscarriage occurred or not based on the input features such as age, BMI, number of previous miscarriages, activity level, location, body temperature, heart rate, stress level, and blood pressure level.
