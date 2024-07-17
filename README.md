@@ -1,4 +1,4 @@
-# Predicting Miscarriage in Women using Big Data & IoT
+# Predicting Miscarriage in Women using Big Data and IoT
 
 ## Introduction
 
